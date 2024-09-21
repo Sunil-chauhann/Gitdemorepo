@@ -1,0 +1,9 @@
+Students:
+  student1:
+    subject:
+      -Math
+      -English
+    marks:
+      Math: 90
+      English: 80
+    
